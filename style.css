@@ -27,6 +27,7 @@ body {
 }
 
 p {
+  margin-top: 75px;
   text-align: center;
   font-size: 25px;
   font-weight: 300;
