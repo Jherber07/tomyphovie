@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 90%;
+  margin: 0;
+  font-family: "Unica One", sans-serif;
+  background: #111;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 5rem;
+}
+
+.heading {
+  color: #eee;
+  font-size: 5rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  cursor: help;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 300;
+  color: #eee;
+  align-items: center;
+  justify-content: center;
+  cursor: alias;
+}
